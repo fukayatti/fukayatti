@@ -37,7 +37,7 @@ const fukayatti = {
   ],
   interests: ["OSS 🛠️", "Tech 💡", "IoT 🌐", "AI 🤖"],
   codingEnvironment: {
-    os: "Ubuntu 24.04 LTS 🐧",
+    os: "MacOS Sequoia 🍎",
     editor: "VSCode 📝",
     music: "Vocaloid Music on Spotify 🎵",
   },
