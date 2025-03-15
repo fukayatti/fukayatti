@@ -39,7 +39,7 @@ const fukayatti = {
   codingEnvironment: {
     os: "MacOS Sequoia 🍎",
     editor: "VSCode 📝",
-    music: "HIPHOP Music on Spotify 🎵",
+    music: "HIPHOP Music on Youtube Music 🎵",
   },
   currentlyLearning: [
     "WebAssembly 🕸️",
