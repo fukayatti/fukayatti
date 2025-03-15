@@ -25,7 +25,7 @@ const fukayatti = {
   role: "Full Stack Engineer & OSS Contributor 💻",
   workingOn: [
     "UniquePersonCounter - Video Analysis Tool 📹",
-    "Personal Tech Blog Development (Planned) 📝",
+    "Personal Tech Blog Development 📝",
     "Machine Learning Research 🤖",
   ],
   learning: [
